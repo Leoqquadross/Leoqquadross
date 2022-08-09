@@ -1,6 +1,6 @@
-### Hi there 👋
 
-Welcome to my profile wave !
+
+Welcome friends Padawan!
 
 - My name is Leonardo and ....
 
