@@ -1,4 +1,5 @@
 
+[![Linkedin]([https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white))]([https://discord.gg/n9KBKHPA3H](https://www.linkedin.com/in/leonardo-quadros-aaa535116/))
 
 ### Hi guys !!!
 
