@@ -1,13 +1,17 @@
 ### Hi there 👋
 
-<!--
 Welcome to my profile wave !
 
--My name is Leonardo and ....
+- My name is Leonardo and ....
 
-    heart_eyes I love technology!!!
-    toolbox I work Analyst JAVA!!!
-    heart_decoration I'm a coffee lover!!!
+    ❤️ I love technology!!!
+    🧑‍💻 I work Analyst JAVA!!!
+    🔥 I'm a coffee lover!!!
 
 Programmer in constant knowledge necktie!!!
--->
+
+<div>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leoqquadross&show_icons=true&theme=tokyonight"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoqquadross&layout=compact&theme=tokyonight"/>
+    
+</div>
