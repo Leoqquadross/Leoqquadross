@@ -5,8 +5,11 @@ Welcome to my profile wave !
 - My name is Leonardo and ....
 
     ❤️ I love technology!!!
+    
     🧑‍💻 I work Analyst JAVA!!!
+    
     🔥 I'm a coffee lover!!!
+    
 
 Programmer in constant knowledge necktie!!!
 
